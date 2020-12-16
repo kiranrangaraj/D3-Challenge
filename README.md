@@ -1,4 +1,4 @@
-# D3-Challenge - Data Journalism and D3
+# D3-Challenge - Data Journalism and D3 
 ## GitHub Page Link: https://kiranrangaraj.github.io/D3-Challenge/
 D3 Homework Assignment for Data Analytics Bootcamp - Vanderbilt University, Trilogy Education
 
