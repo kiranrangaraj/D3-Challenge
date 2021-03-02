@@ -1,6 +1,8 @@
 # D3.js-based Interactive Graph of Health Risks Facing Particular US Demographics   
 ## Website: https://kiranrangaraj.github.io/D3-Challenge/
 
+---
+
 ## Summary ##
 
 This project created an interactive visualization for the 2014 ACS 1-year estimates from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System. The visualization compares rates of obesity, smoking, and lack of healthcare in each state to poverty rates, median age, and median household income in a scatter plot. 
@@ -42,7 +44,7 @@ Age however, does not appear to present a clear correlation to obesity, smoking,
 * Bound all of the CSV data to the circles.
 
 <p align="center">
-  <img src="Images/7-animated-scatter.gif" width="400">
+  <img src="Images/7-animated-scatter.gif" width="500">
 </p>
 
 ### Incorporating D3-tip
@@ -51,7 +53,7 @@ Age however, does not appear to present a clear correlation to obesity, smoking,
 * Also referenced [David Gotz's](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) example of how to implement tooltips with D3-tip.
 
 <p align="center">
-  <img src="Images/8-tooltip.gif" width="400">
+  <img src="Images/8-tooltip.gif" width="500">
 </p>
 
 ---
