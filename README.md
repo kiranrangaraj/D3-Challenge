@@ -34,11 +34,11 @@ Age however, does not appear to present a clear correlation to obesity, smoking,
 * Used `python -m http.server` to run the visualization locally at `localhost:8000` in the web browser.
 
 <p align="center">
-  <img src="Images/4-scatter.jpg" width="400">
+  <img src="Images/4-scatter.jpg" width="430">
 </p>
 
 ### Dynamic Scatter Plot with Interactive Elements
-* Placed additional labels on the scatter plot for the remaining two demographics and risk factors, for a total of three elements per axis.
+* Placed additional labels on the scatter plot for the remaining two demographics and risk factors, a total of three elements per axis.
 * Gave the axes labels click events so that users can decide which data to display.
 * Animated the transitions for the circles locations as well as the range of the axes.
 * Bound all of the CSV data to the circles.
