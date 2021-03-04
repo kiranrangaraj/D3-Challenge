@@ -1,5 +1,8 @@
 # D3.js-based Interactive Graph of Health Risks Facing Particular US Demographics   
-## Website: https://kiranrangaraj.github.io/D3-Challenge/
+
+<p align="center">
+  <a href="https://kiranrangaraj.github.io/Health-Risks-Facing-Particular-US-Demographics/">Visit Website</a>
+</p>
 
 ---
 
