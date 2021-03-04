@@ -59,12 +59,10 @@ Age however, does not appear to present a clear correlation to obesity, smoking,
 ---
 
 ## Sources ##
-### Data
-* https://data.census.gov/cedsci/table?q=2014%20acs&tid=ACSDP1Y2014.DP05&hidePreview=false
-* https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
-### D3.js
-* https://github.com/Caged
-* https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7
+* [Data](https://github.com/kiranrangaraj/Health-Risks-Facing-Particular-US-Demographics/blob/main/assets/data/data.csv)
+* [US Census](https://data.census.gov/cedsci/table?q=2014%20acs&tid=ACSDP1Y2014.DP05&hidePreview=false)
+* [D3.js plugin](https://github.com/caged/d3-tip)
+* [D3-tip](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7)
 
 ---
 
